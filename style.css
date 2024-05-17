@@ -434,6 +434,35 @@ img{
 }
 /********** Testimonial CSS Ends **********/
 
+
+/********** Gallery CSS Starts **********/  
+.gallery-heading{
+    justify-content: center;
+    display: flex;
+    font-size: 24px;
+    margin-bottom: 13px;
+}
+
+#gallery-section{
+    scroll-behavior: smooth;
+    cursor: pointer;
+}
+
+.gallery img {
+    /*width: 24%;
+    */margin-left: 5%;
+    gap: 5;
+    margin-bottom:1% ;
+    margin-top:1% ;
+    border: 1px solid black;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+/********** Gallery CSS Ends **********/
+
 /********** Placement CSS Starts **********/  
 .placement {
     background-image:url('images/bg-img.jpg');
