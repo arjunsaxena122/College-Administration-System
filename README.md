@@ -18,7 +18,7 @@ Go to the CollegeAdmin folder and run
 python manage.py runserver
 ```
 
-Then go to the browser and enter the url **http://127.0.0.1:8000/**
+Then go to the browser and enter the Url **http://127.0.0.1:8000/**
 
 
 ## Login
@@ -30,7 +30,7 @@ Example usernames:
 student- 'samarth'  
 teacher- 'trisila'  
 
-You can access the django admin page at **http://127.0.0.1:8000/admin** and login with username 'admin' and the above password.
+You can access the Django admin page at **http://127.0.0.1:8000/admin** and login with username 'admin' and the above password.
 
 Also a new admin user can be created using
 
